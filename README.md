@@ -12,6 +12,4 @@ Capuchin birds are known for their unique and diverse vocalizations that vary ac
 
 Capuchin Bird Audio Dataset: This dataset consists of high-quality audio recordings of Capuchin bird calls. Each call is annotated with its corresponding species and context, providing valuable information for training the classifier.
 
-# UrbanSound8K Dataset
-
-The UrbanSound8K dataset comprises diverse urban sound samples, including sirens, car horns, drilling, and more. We've utilized this dataset to simulate real-world urban soundscapes and enhance the classifier's ability to differentiate bird calls from common urban noises.
+UrbanSound8K Dataset: The UrbanSound8K dataset comprises diverse urban sound samples, including sirens, car horns, drilling, and more. We've utilized this dataset to simulate real-world urban soundscapes and enhance the classifier's ability to differentiate bird calls from common urban noises.
