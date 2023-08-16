@@ -34,13 +34,12 @@ Here's an example of a Mel spectrogram generated from an audio recording of a Ca
 
 ### Mel Spectrogram Example
 
+Below is an example of a Mel spectrogram generated using torchaudio from an audio recording of a Capuchin bird call:
+
   ![image](https://github.com/sherlockholmes1603/audio_based_dataset/assets/77875542/455cef37-a3ed-4089-8388-649b6c15a821)
 
 
 In the spectrogram, the x-axis represents time, the y-axis represents different frequency bins (converted to Mel scale), and the color intensity represents the magnitude of the corresponding frequency component at a given time.
-
-Creating Mel Spectrograms
-
 
 By utilizing Mel spectrograms, we bridge the gap between audio and visual analysis, enabling our models to recognize intricate audio patterns and make accurate predictions.
 
